@@ -3,21 +3,21 @@
 # Copie este arquivo para extensions/<id>.toml e preencha.
 
 # Same as the file name: lowercase letters, digits and _.
-id = "my_extension"
+id = "standard_views_2"
 version = "1.0"
-author = "Your Name"
+author = "TB"
 # author_url = "https://github.com/you"            # optional
 
 # SPDX name of a free licence: MIT, GPL-3.0-or-later, Apache-2.0, BSD-3-Clause…
 license = "MIT"
 
 # Where people read your code.
-repository = "https://github.com/you/my-extension"
+https://github.com/tboy-123/Alternative-Standard-views-toolbar
 
 # The exact file IngeTrazo users will install: a .py file, or a .zip holding
 # ONE folder with an __init__.py. Use a TAG or a COMMIT in the address, not
 # «main»: what is reviewed must not change afterwards.
-download = "https://raw.githubusercontent.com/you/my-extension/v1.0/my_extension.py"
+download = https://github.com/tboy-123/Alternative-Standard-views-toolbar/blob/main/standard_views_2.py
 # sha256sum my_extension.py      (Windows: certutil -hashfile my_extension.py SHA256)
 # If it is wrong, the check tells you the right one.
 sha256 = "0000000000000000000000000000000000000000000000000000000000000000"
