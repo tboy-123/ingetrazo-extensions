@@ -1,5 +1,5 @@
-id = "archxq_it"
-version = "0.9.5"
+id = "archxq_it_lite"
+version = "0.10.2"
 author = "Orlando Souza · XQ"
 author_url = "https://github.com/equipexq"
 
@@ -7,8 +7,8 @@ license = "GPL-3.0-or-later"
 
 repository = "https://github.com/equipexq/archxq-it-lite"
 
-download = "https://github.com/equipexq/archxq-it-lite/releases/download/v0.9.5/archxq_it_lite-v0.9.5.zip"
-sha256 = "81d3e7ee1c37dc1195a455b180572efc6ffccb2d16ace6529a198da817e03053"
+download = "https://github.com/equipexq/archxq-it-lite/releases/download/v0.10.2/archxq_it_lite-v0.10.2.zip"
+sha256 = "9b2caf7ea8fe0eb683a592162637315336de5d9a1ff51da31860d48c58de6af7"
 
 ingetrazo = "0.5.7"
 

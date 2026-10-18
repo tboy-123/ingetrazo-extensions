@@ -1,11 +1,11 @@
 id = "planarq"
-version = "1.0"
+version = "1.0.1"
 author = "José Castro Basso (FADU – UDELAR)"
 author_url = "https://github.com/castrobasso"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/castrobasso/ingetrazo/tree/planArq"
-download = "https://raw.githubusercontent.com/castrobasso/ingetrazo/b1a7edf5ea516c3ced02fcd8c570faa41da88e12/planArq-v1.zip"
-sha256 = "e1073d8c42d45921fc4ab626aff40c7f3f8c7a592878e9c55e3b4aa25dcad01b"
+download = "https://raw.githubusercontent.com/castrobasso/ingetrazo/d18ab1238c2a415ca7074d2a98d2a685ae2dc146/planArq-v1.zip"
+sha256 = "090895d6c70ce628125192bd47656eb47df82a95378f3268d85668a0bc6cf380"
 ingetrazo = "0.5.7"
 tags = ["architecture", "structures", "education"]
 
